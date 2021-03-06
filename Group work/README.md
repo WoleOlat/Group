@@ -8,7 +8,7 @@ Flask + SQLite3
 - Install Flask-cors
 - Install npm`
 
-*Sqlite comes with your installation of python*
+
 
 
 ### UI
